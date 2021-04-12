@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    height: 100%;
+    background-color: white;
+}
+
+/**/
+/*Navegador*/
+
+.navbar{
+    background-color:black;
+}
