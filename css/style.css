@@ -38,3 +38,14 @@ footer{
     transform: translate(-50%, -50%);
     color: white;
 }
+/*seccion de nuestros servicios*/
+.titulo2{
+    background-color: darkorange;
+    color: black;
+}
+
+/*seccion de eventos*/
+.imagenes{
+    height: 700px;
+    width: 700px;
+}
