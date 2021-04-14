@@ -43,6 +43,11 @@ footer{
     color: black;
 }
 
+.img-ns{
+    height: 200px;
+    width: 400px;
+}
+
 /*seccion de eventos*/
 /* .imagenes{
     height: 700px;
