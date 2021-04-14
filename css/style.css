@@ -44,9 +44,69 @@ footer{
 }
 
 /*seccion de eventos*/
-.imagenes{
+/* .imagenes{
     height: 700px;
     width: 700px;
+} */
+
+.img-carrusel1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/gala.jpg");
+    height: 80vh;
+    width:auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.img-carrusel2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/matrimonio.jpg");
+    height: 80vh;
+    width:auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.img-carrusel3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/despedida3.jpg");
+    height: 80vh;
+    width:auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.img-carrusel4{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/baby-shower.jpg");
+    height: 80vh;
+    width:auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.img-carrusel5{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/bautizo.png");
+    height: 80vh;
+    width:auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.img-carrusel6{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/fiesta-cumpleanos.jpg");
+    height: 80vh;
+    width:auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 /*=========================================================================================================*/
