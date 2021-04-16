@@ -64,11 +64,47 @@ footer{
     font-weight: 400;
 }
 
-.img-ns{
-    height: 200px;
-    width: 400px;
+.img-ns1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/nuestros_servicios/transporte.jpg");
+    height: 300px;
+    width: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
+.img-ns2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/nuestros_servicios/decoración.jpg");
+    height: 300px;
+    width: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.img-ns3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/nuestros_servicios/cocina.jpg");
+    height: 300px;
+    width: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.img-ns4{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/nuestros_servicios/show.jpg");
+    height: 300px;
+    width: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+/*seccion de eventos*/
 .img-carrusel1{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/inicio/gala.jpg");
     height: 80vh;
